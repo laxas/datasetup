@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 numpy = "*"
 pandas = "*"
+jupyter = "==1.0.0"
+jupyterlab = "*"
 
 [dev-packages]
 
