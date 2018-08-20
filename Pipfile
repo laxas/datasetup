@@ -8,6 +8,10 @@ numpy = "*"
 pandas = "*"
 jupyter = "==1.0.0"
 jupyterlab = "*"
+redis = "*"
+selenium = "*"
+requests = "*"
+requests-html = "*"
 
 [dev-packages]
 
