@@ -12,6 +12,7 @@ redis = "*"
 selenium = "*"
 requests = "*"
 requests-html = "*"
+sqlalchemy = "*"
 
 [dev-packages]
 
