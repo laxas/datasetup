@@ -10,6 +10,10 @@ jupyter = "==1.0.0"
 jupyterlab = "*"
 
 [dev-packages]
+black = "*"
 
 [requires]
-python_version = "3.6"
+python_version = "*"
+
+[pipenv]
+allow_prereleases = true
