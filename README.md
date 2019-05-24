@@ -6,7 +6,7 @@ The included packages can be found in the file `Pipenv`.
 To create the virtual environment and install all the packages run the following commands:
 
 <code bash>
-pipenv shell --python /usr/bin/python3.6
+pipenv shell --three
 pipenv install
 </code>
 
